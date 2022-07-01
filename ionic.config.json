@@ -1,0 +1,7 @@
+{
+  "name": "tagManger",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
